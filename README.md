@@ -123,6 +123,8 @@ Comparaison des prix moyens selon les catégories de logements :
 # Dashboards Power BI
 
 ## Dashboard 1 – Analyse et Pilotage Immobilier
+<img width="509" height="288" alt="image" src="https://github.com/user-attachments/assets/0084b36f-3ec3-4621-aeb3-aa03605008aa" />
+
 
 KPI principaux :
 
@@ -142,12 +144,14 @@ Filtres interactifs :
 
 * Quartier
 * Type de logement
-* Qualité du logement<img width="509" height="288" alt="image" src="https://github.com/user-attachments/assets/e63d53a4-a878-4cd6-9664-0e7fa9c68a15" />
+* Qualité du logement
 
 
 ---
 
 ## Dashboard 2 – Insights & Recommandations
+<img width="509" height="284" alt="image" src="https://github.com/user-attachments/assets/aa35e102-4922-46ee-a601-c2845d235abb" />
+
 
 Analyses complémentaires :
 
