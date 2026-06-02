@@ -142,7 +142,8 @@ Filtres interactifs :
 
 * Quartier
 * Type de logement
-* Qualité du logement
+* Qualité du logement<img width="509" height="288" alt="image" src="https://github.com/user-attachments/assets/e63d53a4-a878-4cd6-9664-0e7fa9c68a15" />
+
 
 ---
 
